@@ -1,56 +1,51 @@
-# Hi there 👋
-
-## About Me
-
-I'm a **Senior Frontend Engineer** with 8 years of experience in building scalable, performant, and user-friendly web applications. My primary focus has been crafting seamless user interfaces and robust systems using:
-
-- **React.js** (SPA development, hooks, state management, and performance optimization)
-- **Node.js** (Backend APIs, RESTful services, and server-side rendering)
-- **.NET** (Full-stack development and integrating modern frontends with enterprise-grade backends)
-
-## Tech Stack
-
-Here are some of the technologies and tools I've worked with:
-
-### Frontend:
-- **React.js**
-- **Next.js**
-- **Redux / Context API / Redux Toolkit**
-- **TypeScript**
-- **Material-UI (MUI)** / Ant Design / Styled Components
-- **Webpack / Vite**
-
-### Backend:
-- **Node.js** (Express.js, Nest.js)
-- **.NET Core / .NET 6+**
-- **REST APIs / GraphQL**
-
-### Database:
-- **PostgreSQL / SQL Server**
-- **MongoDB**
-
-### Tools & Platforms:
-- **AWS** (Lambda, S3, CloudFront)
-- **CI/CD Pipelines** (GitHub Actions, Gitlab Pipelines, Azure DevOps)
-- **Docker / Kubernetes**
-- **Git** (GitHub, GitLab, Bitbucket)
-
-## My Philosophy
-
-- **User-Centric Design:** Building applications that focus on usability and performance.
-- **Clean Code:** Writing maintainable and testable code using industry-standard practices.
-- **Collaboration:** Thriving in team environments where ideas and knowledge are shared openly.
-- **Continuous Learning:** Always staying up-to-date with the latest technologies and best practices.
-
-## Highlights
-
-- Delivered multiple high-impact projects involving large-scale React applications integrated with .NET and NodeJS backends.
-- Designed and implemented scalable Node.js microservices to handle high traffic volumes.
-- Proficient in optimizing React applications for performance and accessibility.
-
-## Let's Connect!
-
-- **GitHub:** [Your GitHub Profile](https://github.com/andersonwitt)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/andersonwitt)
-
-Feel free to reach out for collaborations, code reviews, or just a tech chat! 🚀
+<div class="container">
+    <header>
+        <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" min-width="400px" max-width="400px" width="400px" align="right">
+        <h1>Senior Frontend Engineer</h1>
+    </header>
+    <p align="left">
+        Hi! I'm a Frontend Engineer with 8 years of experience working with <strong>React.js</strong>, <strong>Node.js</strong>, and <strong>.NET</strong>. Currently, I am focused on developing scalable and user-centric web applications while continuously improving my skills in full-stack development.
+    </p>
+    <section>
+        <h2>🦄 Languages</h2>
+        <p align="left">JavaScript, TypeScript, C#, HTML, CSS</p>
+    </section>
+    <section>
+        <h2>💼 Tools</h2>
+        <p align="left">React.js, Next.js, Redux, Node.js, .NET Core, PostgreSQL, MongoDB, AWS, Docker, CI/CD Pipelines</p>
+    </section>
+    <section>
+        <h2>🌟 My Philosophy</h2>
+        <ul>
+            <li><strong>User-Centric Design:</strong> Building applications that focus on usability and performance.</li>
+            <li><strong>Clean Code:</strong> Writing maintainable and testable code using industry-standard practices.</li>
+            <li><strong>Collaboration:</strong> Thriving in team environments where ideas and knowledge are shared openly.</li>
+            <li><strong>Continuous Learning:</strong> Always staying up-to-date with the latest technologies and best practices.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>🏆 Highlights</h2>
+        <ul>
+            <li>Delivered multiple high-impact projects involving large-scale React applications integrated with .NET backends.</li>
+            <li>Designed and implemented scalable Node.js microservices to handle high traffic volumes.</li>
+            <li>Proficient in optimizing React applications for performance and accessibility.</li>
+        </ul>
+    </section>
+    <section>
+        <h2>💌 Let's Connect</h2>
+        <p align="left">
+            <a href="mailto:andersonrw161196@gmail.com" title="Gmail">
+                <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail">
+            </a>
+            <a href="https://linkedin.com/in/andersonwitt" title="LinkedIn">
+                <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+            </a>
+            <a href="https://api.whatsapp.com/send?phone=5548999656396" title="WhatsApp">
+                <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp">
+            </a>
+            <a href="https://instagram.com/andersonwitt" title="Instagram">
+                <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram">
+            </a>
+        </p>
+    </section>
+</div>
