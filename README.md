@@ -15,9 +15,9 @@ Here are some of the technologies and tools I've worked with:
 ### Frontend:
 - **React.js**
 - **Next.js**
-- **Redux / Context API / Zustand**
+- **Redux / Context API / Redux Toolkit**
 - **TypeScript**
-- **Material-UI (MUI)** / TailwindCSS / Styled Components
+- **Material-UI (MUI)** / Ant Design / Styled Components
 - **Webpack / Vite**
 
 ### Backend:
@@ -50,8 +50,7 @@ Here are some of the technologies and tools I've worked with:
 
 ## Let's Connect!
 
-- **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Portfolio:** [Your Portfolio](https://yourportfolio.com)
+- **GitHub:** [Your GitHub Profile](https://github.com/andersonwitt)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/andersonwitt)
 
 Feel free to reach out for collaborations, code reviews, or just a tech chat! 🚀
